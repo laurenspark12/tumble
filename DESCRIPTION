@@ -4,19 +4,9 @@ Title: Tumble Plots
 Version: 0.0.0.9000
 Date: 2019-04-25
 Authors@R: c(
-    person("Lauren",
-           "Park",
-           role = c("aut", "cre"),
-           email = "lpark@pdx.edu",
-           comment = c(ORCID = "0000-0002-5277-6324")),
-    person("Timothy",
-           "Carsey",
-           role = c("aut"),
-           email = "tcarsey@pdx.edu"),
-    person("Joel",
-           "Steele",
-           role = c("aut"),
-           email = "joel8@pdx.edu"))
+    person("Lauren", "Park", role = c("aut", "cre"), email = "lpark@pdx.edu", comment = c(ORCID = "0000-0002-5277-6324")),
+    person("Timothy", "Carsey", role = c("aut"), email = "tcarsey@pdx.edu"),
+    person("Joel", "Steele", role = c("aut"), email = "joel8@pdx.edu"))
 Description: This package creates tumble plots to avoid misleading end points when graphing interactions from a moderated multiple regression analysis.
 Encoding: UTF-8
 LazyData: true

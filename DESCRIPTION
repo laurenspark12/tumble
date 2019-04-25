@@ -1,14 +1,22 @@
 Package: tumbleplot
-Title: What the Package Does (One Line, Title Case)
+Title: Tumble Plots
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Lauren",
+           family = "Park",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "lpark@pdx.edu",
+           comment = c(ORCID = "0000-0002-5277-6324"))
+    person(given = "Timothy",
+           family = "Carsey",
+           role = c("aut"),
+           email = "tcarsey@pdx.edu")
+    person(given = "Joel",
+           family = "Steele",
+           role = c("aut"),
+           email = "joel8@pdx.edu")
+Description: This package creates tumble plots to avoid misleading end points when graphing interactions from a moderated multiple regression analysis.
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1.9000
+

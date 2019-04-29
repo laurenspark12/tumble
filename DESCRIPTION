@@ -4,8 +4,8 @@ Title: Tumble Plots
 Version: 0.0.0.9000
 Date: 2019-04-25
 Authors@R: c(
-person("Lauren", "Park", email = "lpark@pdx.edu", role = c("aut", "cre")),
-person("Tim", "Carsey", email = "tcarsey@pdx.edu", role = c("aut")))
+  person("Lauren", "Park", email = "lpark@pdx.edu", role = c("aut", "cre")),
+  person("Tim", "Carsey", email = "tcarsey@pdx.edu", role = c("aut")))
 Description: This package creates tumble plots to avoid misleading end points when graphing interactions from a moderated multiple regression analysis.
 License: What license is it under?
 Encoding: UTF-8

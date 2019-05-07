@@ -1,0 +1,14 @@
+Package: tumble
+Title: Tumble Plots
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Lauren",
+           family = "Park",
+           role = c("aut", "cre"),
+           email = "lpark@pdx.edu",
+           comment = c(ORCID = "0000-0002-5277-6324"))
+Description: This package creates illustrative graphs for probing continuous by continuous interactions, using empirical endpoints.
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
